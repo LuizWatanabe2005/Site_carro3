@@ -1,0 +1,88 @@
+
+*{
+    margin: none;
+    padding: none;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+
+.carouselExampleFade{
+    size: 50px;
+}
+
+.cardI{
+    display: flex;
+    display: inline-block;
+}
+
+.my-carousel {
+    left: -300px;
+}
+
+.logo {
+    position: relative;
+    width: 20px;
+}
+
+.carro{
+    width: 1000px;
+    position: relative;
+    left: 280px;
+  
+ }
+
+.chega {
+     position: relative;
+    left: 70px;
+      bottom: -50px;
+     font-size: 10px;
+     font-family:Arial, Helvetica, sans-serif;
+}
+
+.gol {
+     position: relative;
+     left: 600px;
+    bottom: 377px;
+     font-size: 10px;
+     font-family:Arial, Helvetica, sans-serif;
+     bottom: 150px;
+     left: 250px;
+}
+
+.batata {
+     position: relative;
+    bottom: -95px;
+     left: 70px;
+     font-size: 10px;
+     font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.jogo {
+     position: relative;
+     bottom: 575px;
+     left: 1080px;
+     font-size: 10px;
+     font-family:Arial, Helvetica, sans-serif;
+     bottom: 250px;
+     left: 400px;
+}
+
+
+.batataa{
+    background-color: #daa520;
+    width: 125%;
+    background-size: cover;
+    margin-left: -140px;
+}
+
+#containera{
+    width: 100%;
+    background-size: cover;
+}
+
